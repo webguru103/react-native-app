@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "extent": "full-screen",
+      "idiom" : "iphone",
+      "filename": "HomeKey-Loading.png",
+      "orientation": "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent": "full-screen",
+      "idiom" : "iphone",
+      "filename": "HomeKey-Loading.png",
+      "orientation": "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent": "full-screen",
+      "idiom" : "iphone",
+      "filename": "HomeKey-Loading.png",
+      "orientation": "portrait",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
