@@ -1,0 +1,10 @@
+export { MyHome } from './myHome.component';
+export { MyAccount } from './myAccount.component';
+export { Ideas } from './ideas.component';
+export { Todos } from './todos.component';
+export { SmartShop } from './smartShop.component';
+export { HomeDetails } from './homeDetails.component';
+export { ItemsListItem } from './itemsListItem.component';
+export { PaintsListItem } from './paintsListItem.component';
+export { SmartShopCarousel } from './smartShopCarousel.component';
+export { SmartShopSingle } from './smartShopSingle.component';
